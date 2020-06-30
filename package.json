@@ -55,12 +55,12 @@
       ]
     }
   },
-//   "husky": {
-//     "hooks": {
-//       "pre-commit": "yarn fix",
-//       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-//     }
-//   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "",
+      "commit-msg": ""
+    }
+  },
   "prettier": {
     "singleQuote": true,
     "trailingComma": "all"
