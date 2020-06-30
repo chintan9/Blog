@@ -1,12 +1,12 @@
 require('dotenv').config();
 
 const siteMetadata = {
-  title: `Novela by Narative`,
-  name: `Narative`,
-  siteUrl: `https://novela.narative.co`,
+  title: `Blog by Chintan Prajapati`,
+  name: `Chintan Prajapati`,
+  siteUrl: `https://www-eight.vercel.app`,
   description: `This is my description that will be used in the meta tags and important for search results`,
   hero: {
-    heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+    heading: `Blog Posts`,
     maxWidth: 652,
   },
   social: [
