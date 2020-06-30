@@ -11,29 +11,29 @@ const siteMetadata = {
   },
   social: [
     {
-      url: `https://twitter.com/narative`,
+      url: `https://twitter.com/`,
     },
     {
-      url: `https://behance.com/narative`,
+      url: `https://behance.com/`,
     },
     {
-      url: `https://github.com/narative`,
+      url: `https://github.com/`,
     },
     {
-      url: `https://instagram.com/narative.co`,
+      url: `https://instagram.com/`,
     },
     {
-      url: `https://www.linkedin.com/company/narative/`,
+      url: `https://www.linkedin.com/company/`,
     },
     {
-      url: `https://dribbble.com/narativestudio`,
+      url: `https://dribbble.com/`,
     },
     {
       url: `https://youtube.com`,
     },
     {
       name: 'stackoverflow',
-      url: `https://bit.ly/1x0885j`,
+      url: `https://stackoverflow.com`,
     },
     {
       url: `https://digitalocean.com`,
